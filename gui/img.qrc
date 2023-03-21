@@ -1,0 +1,57 @@
+<RCC>
+  <qresource prefix="img">
+    <file>icons/2.jpg</file>
+    <file>icons/about.jpg</file>
+    <file>icons/adduser - Copia.png</file>
+    <file>icons/adduser.png</file>
+    <file>icons/admin.qrc</file>
+    <file>icons/cadastrar.png</file>
+    <file>icons/del.png</file>
+    <file>icons/entregador.png</file>
+    <file>icons/essa.png</file>
+    <file>icons/esse.png</file>
+    <file>icons/icones.qrc</file>
+    <file>icons/igor.qrc</file>
+    <file>icons/igr.png</file>
+    <file>icons/imagem.py</file>
+    <file>icons/imagem.qrc</file>
+    <file>icons/importa.jpg</file>
+    <file>icons/impressora.png</file>
+    <file>icons/ipe.png</file>
+    <file>icons/logo.jpg</file>
+    <file>icons/logo.png</file>
+    <file>icons/logo.qrc</file>
+    <file>icons/logo1png.png</file>
+    <file>icons/logo1png.xcf</file>
+    <file>icons/logo2.png</file>
+    <file>icons/logo2png.png</file>
+    <file>icons/logo2png2.png</file>
+    <file>icons/logomenor.png</file>
+    <file>icons/loguom.png</file>
+    <file>icons/loog.png</file>
+    <file>icons/loog2.jpg</file>
+    <file>icons/lua.jpg</file>
+    <file>icons/manager.png</file>
+    <file>icons/manutence.png</file>
+    <file>icons/menor.png</file>
+    <file>icons/menor1.png</file>
+    <file>icons/menu.qrc</file>
+    <file>icons/password-icon-1.png</file>
+    <file>icons/pesq.qrc</file>
+    <file>icons/pesquisar.png</file>
+    <file>icons/pre.png</file>
+    <file>icons/redloog.png</file>
+    <file>icons/refresh.png</file>
+    <file>icons/sair.png</file>
+    <file>icons/search.jpg</file>
+    <file>icons/sistema.png</file>
+    <file>icons/updateuser.png</file>
+    <file>icons/usar.jpg</file>
+    <file>icons/userdell.png</file>
+    <file>icons/usericon.png</file>
+    <file>icons/users.png</file>
+    <file>icons/vassoura.jpg</file>
+    <file>icons/vassoura.svg</file>
+    <file>icons/view.png</file>
+  </qresource>
+</RCC>

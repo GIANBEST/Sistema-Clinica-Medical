@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="menu">
+    <file>entregador.png</file>
+    <file>manager.png</file>
+    <file>manutence.png</file>
+    <file>pre.png</file>
+    <file>search.jpg</file>
+    <file>updateuser.png</file>
+    <file>userdell.png</file>
+    <file>vassoura.jpg</file>
+    <file>usericon.png</file>
+    <file>impressora.png</file>
+    <file>2.jpg</file>
+    <file>cadastrar.png</file>
+    <file>del.png</file>
+    <file>igr.png</file>
+    <file>imagem.py</file>
+    <file>imagem.qrc</file>
+    <file>importa.jpg</file>
+    <file>logo.png</file>
+    <file>logo1png.png</file>
+    <file>logo1png.xcf</file>
+    <file>refresh.png</file>
+    <file>sair.png</file>
+    <file>search.jpg</file>
+    <file>users.png</file>
+    <file>view.png</file>
+  </qresource>
+</RCC>

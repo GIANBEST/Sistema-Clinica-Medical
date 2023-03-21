@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="add">
+    <file>icons/adduser - Copia.png</file>
+  </qresource>
+</RCC>

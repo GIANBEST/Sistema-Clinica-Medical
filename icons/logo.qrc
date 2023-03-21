@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>igr.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>cadastrar.png</file>
+    <file>password-icon-1.png</file>
+    <file>usericon.png</file>
+  </qresource>
+</RCC>

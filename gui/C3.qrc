@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>Medico.ico</file>
+    <file>Pictogrammers-Material-Lock.ico</file>
+  </qresource>
+</RCC>
